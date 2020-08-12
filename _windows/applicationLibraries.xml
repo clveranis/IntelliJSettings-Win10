@@ -949,13 +949,18 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-core-2.10.134/bin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-core-2.10.134/lib" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-core-2.10.134/apis" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-core-2.10.134/bin" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-core-2.10.134/lib" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-core-2.10.134/apis" />
       </SOURCES>
       <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-core-2.10.134/bin" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-core-2.10.134/apis" />
       </excluded>
     </library>
@@ -1508,14 +1513,17 @@
       <CLASSES>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-2.1.4/exe" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-2.1.4/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-2.1.4/man" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-2.1.4/exe" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-2.1.4/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-2.1.4/man" />
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-2.1.4/exe" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/bundler-2.1.4/man" />
       </excluded>
     </library>
     <library name="bundler (v2.1.4, Remote-rbenv: ruby-2.7.1-p83) [gem]" type="rubylib">
@@ -1649,11 +1657,16 @@
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/capybara-3.29.0/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/capybara-3.29.0/spec" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/capybara-3.29.0/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/capybara-3.29.0/spec" />
       </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/capybara-3.29.0/spec" />
+      </excluded>
     </library>
     <library name="capybara (v3.29.0, Remote: ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>

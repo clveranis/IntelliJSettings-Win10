@@ -2222,6 +2222,29 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="gem-licenses (v0.2.2, Remote-rbenv: ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gem-licenses-0.2.2/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gem-licenses-0.2.2/spec" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gem-licenses-0.2.2/tasks" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gem-licenses-0.2.2/common_licenses" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gem-licenses-0.2.2/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gem-licenses-0.2.2/spec" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gem-licenses-0.2.2/tasks" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gem-licenses-0.2.2/common_licenses" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gem-licenses-0.2.2/spec" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gem-licenses-0.2.2/tasks" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/gem-licenses-0.2.2/common_licenses" />
+      </excluded>
+    </library>
     <library name="getoptlong (v0.1.0, Remote-rbenv: ruby-2.7.1-p83) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />

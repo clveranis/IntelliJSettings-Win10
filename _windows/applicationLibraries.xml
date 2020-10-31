@@ -2747,6 +2747,38 @@
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/579539857/home/bhuck/.rbenv/versions/2.7.1/lib/ruby/2.7.0/json/add" />
       </excluded>
     </library>
+    <library name="json (v2.3.1, Remote-rbenv: ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/java" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/tests" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/tools" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/diagrams" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/references" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/java" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/tests" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/tools" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/diagrams" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/references" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/ext" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/java" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/tests" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/tools" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/diagrams" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/json-2.3.1/references" />
+      </excluded>
+    </library>
     <library name="licensed (v2.13.0, Remote-rbenv: ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3840,6 +3872,31 @@
       <SOURCES>
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pdf-core-0.7.0/lib" />
       </SOURCES>
+    </library>
+    <library name="pdfjs_viewer-rails (v0.3.1, Remote-rbenv: ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pdfjs_viewer-rails-0.3.1/app" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pdfjs_viewer-rails-0.3.1/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pdfjs_viewer-rails-0.3.1/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pdfjs_viewer-rails-0.3.1/config" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pdfjs_viewer-rails-0.3.1/public" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pdfjs_viewer-rails-0.3.1/app" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pdfjs_viewer-rails-0.3.1/lib" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pdfjs_viewer-rails-0.3.1/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pdfjs_viewer-rails-0.3.1/config" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pdfjs_viewer-rails-0.3.1/public" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pdfjs_viewer-rails-0.3.1/test" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pdfjs_viewer-rails-0.3.1/config" />
+        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/ruby_stubs/321374419/home/bhuck/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/pdfjs_viewer-rails-0.3.1/public" />
+      </excluded>
     </library>
     <library name="pdfjs_viewer-rails (v0.3.1@dd2f60, Remote-rbenv: ruby-2.5.1-p57) [gem]" type="rubylib">
       <properties>
